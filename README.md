@@ -101,5 +101,3 @@ The dataset used for this project is publicly available in CSV format on [GitHub
 - Enable drill-through reports for individual customer profiles or orders
 
 --
-
-> ✅ This project showcases how Power BI can turn raw business data into powerful decision-making tools. Feel free to fork, use, and adapt this dashboard for your own business analytics needs.
