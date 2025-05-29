@@ -94,12 +94,6 @@ The dataset used for this project is publicly available in CSV format on [GitHub
 
 ---
 
-## 📸 Snapshots
-
-| Dashboard Overview 
-
----
-
 ## 🧠 Future Improvements
 
 - Add slicers for dynamic filtering by product, segment, and time
